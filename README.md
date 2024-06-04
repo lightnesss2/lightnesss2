@@ -19,10 +19,10 @@
 
 
 ### Minhas Informações:
-Eae? Eu sou Lightnesss2, Sou um simples Programador Junior de Front-End.
+Olá! Meu nome é Alison, Sou um simples Programador Junior de Front-End.
 - Trabalho com criação e estilização de sites, pretendo futuramente expandir meu conhecimento com Back-End.
-- Atualmente, sou estudante do ensino medio com Curso de Programação. Uso meu tempo livre para aprender e treinar mais quando eu posso.
-- Sou Criativo, Esforçado e sempre quero ajudar aqueles que posso com a Programação.
+- Atualmente, sou suporte tecnico de redes aprendiz. Uso meu tempo livre para aprender e treinar mais quando eu posso.
+- Sou Criativo, Amigavel e sempre quero ajudar aqueles que posso com a Programação.
 
 ---
 
