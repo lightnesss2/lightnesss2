@@ -39,8 +39,8 @@ Olá! Meu nome é Alison, Sou um simples Programador Junior de Front-End.
 
  <div>
    <a href="https://github.com/lightnesss2">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightnesss2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightnesss2&layout=compact&langs_count=6&theme=radical"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lightnesss2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightnesss2&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 ---
