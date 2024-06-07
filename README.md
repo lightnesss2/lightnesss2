@@ -22,7 +22,6 @@
 Olá! Meu nome é Alison, Sou um simples Programador Junior de Front-End.
 - Trabalho com criação e estilização de sites, pretendo futuramente expandir meu conhecimento com Back-End.
 - Atualmente, sou suporte tecnico de redes aprendiz. Uso meu tempo livre para aprender e treinar mais quando eu posso.
-- Sou Criativo, Amigavel e sempre quero ajudar aqueles que posso com a Programação.
 
 ---
 
